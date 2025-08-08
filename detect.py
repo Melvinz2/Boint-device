@@ -219,4 +219,4 @@ class YOLODetector:
 if __name__ == "__main__":
     # Original functionality
     detector = YOLODetector()
-    detector.webcam_detection(source=1)
+    detector.webcam_detection(source=0)
